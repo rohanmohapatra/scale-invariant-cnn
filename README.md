@@ -12,9 +12,10 @@ tqdm
 ### Baseline CNN
 Took Mnist Data,  resized it to 16x16, 24x24 and 28x28. Then I padded all of them to make it look like 32x32
 
-![alt text](https://gitlab.com/ssbhat98/scale-invariant-cnn/raw/master/images/plot_16_padded_32.png "plot_16_padded_32")
-![alt text](https://gitlab.com/ssbhat98/scale-invariant-cnn/raw/master/images/plot_24_padded32.png "plot_24_padded32")
-![alt text](https://gitlab.com/ssbhat98/scale-invariant-cnn/raw/master/images/plot_28_padded32.png "plot_28_padded32")
+![plot_28_padded32](https://user-images.githubusercontent.com/31756343/126871877-b6f19159-c232-46c1-8b41-1c94d856aca3.png)
+![plot_24_padded32](https://user-images.githubusercontent.com/31756343/126871882-81370da5-83f5-453b-a7f6-82d690df735b.png)
+![plot_16_padded_32](https://user-images.githubusercontent.com/31756343/126871885-dafe5f6d-13db-43a0-b4b7-334ee44d837d.png)
+
 
 Training Loss and Accuracy:
 ```
